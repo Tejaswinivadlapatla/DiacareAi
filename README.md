@@ -2,7 +2,16 @@
 
 DiaCare AI is an AI-powered desktop healthcare application developed using Python and CustomTkinter. It helps users monitor their health by providing diabetes prediction, nutrition analysis, BMI calculation, meal planning, and an AI health assistant in one easy-to-use application.
 
----
+
+# 📖 Project Overview
+
+DiaCare AI is an AI-powered desktop healthcare application designed to assist users in monitoring their health and promoting diabetes awareness. Developed using Python and CustomTkinter, the application integrates Machine Learning and Artificial Intelligence to provide an interactive and user-friendly healthcare experience.
+
+The application enables users to predict the likelihood of diabetes using a trained Machine Learning model based on various health parameters. In addition to diabetes prediction, it offers a Nutrition Analysis module that provides detailed nutritional information for food items, helping users make healthier dietary decisions.
+
+DiaCare AI also includes an AI Health Assistant powered by Google's Gemini AI, allowing users to ask health-related questions and receive informative responses. To encourage a healthy lifestyle, the application provides a Meal Planner that suggests balanced meal options and a BMI Calculator that evaluates a user's body mass index, displays the corresponding health category, and offers personalized health recommendations.
+
+With its intuitive interface, intelligent features, and focus on preventive healthcare, DiaCare AI serves as an educational and wellness-support tool. While it is not intended to replace professional medical advice, it aims to help users better understand their health, adopt healthier habits, and increase awareness about diabetes management.
 
 ## ✨ Features
 
