@@ -32,7 +32,7 @@ The AI Health Assistant is powered by Google's Gemini AI. Users can ask question
 ## 🍽️ Meal Planner
 The Meal Planner generates balanced meal suggestions for breakfast, lunch, dinner, and snacks based on healthy eating principles. It encourages nutritious food choices that support diabetes prevention and overall well-being by promoting a balanced diet.
 
-<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/8a68d6a2-2099-4af1-9a9c-6a64b2ba71e7" />
+<img width="1913" height="997" alt="image" src="https://github.com/user-attachments/assets/422299c7-46a5-492c-95c0-6a8a266db439" />
 
 
 ## ⚖️ BMI Calculator
