@@ -17,24 +17,32 @@ DiaCare AI is an AI-powered desktop healthcare application developed using Pytho
 
 ## 🩸 Diabetes Prediction
 The Diabetes Prediction module uses a Machine Learning model to estimate the likelihood of diabetes based on user-provided health parameters such as glucose level, BMI, age, insulin, blood pressure, and other medical attributes. It provides an instant prediction that can help users understand their potential diabetes risk.
+
 <img width="1907" height="977" alt="image" src="https://github.com/user-attachments/assets/256e412a-2116-45ce-b44f-1408610c4351" />
 
 ## 🥗 Nutrition Analysis
 The Nutrition Analysis module allows users to search for different food items and view detailed nutritional information. It displays calories, carbohydrates, proteins, fats, sugar, fiber, Glycemic Index (GI), and Glycemic Load (GL), helping users make healthier dietary choices and better manage their blood sugar levels.
 
+<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/772d26cd-a9da-478c-90b7-171ae7c1094a" />
 
 ## 🤖 AI Health Assistant
 The AI Health Assistant is powered by Google's Gemini AI. Users can ask questions related to diabetes, nutrition, healthy lifestyle habits, exercise, and general wellness. The assistant provides informative responses to support users in understanding their health and promoting healthy daily habits.
 
----
 
 ## 🍽️ Meal Planner
 The Meal Planner generates balanced meal suggestions for breakfast, lunch, dinner, and snacks based on healthy eating principles. It encourages nutritious food choices that support diabetes prevention and overall well-being by promoting a balanced diet.
 
----
+<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/8a68d6a2-2099-4af1-9a9c-6a64b2ba71e7" />
+
 
 ## ⚖️ BMI Calculator
 The BMI Calculator enables users to calculate their Body Mass Index by entering their height and weight. It categorizes the result into Underweight, Normal Weight, Overweight, or Obese and provides personalized health advice along with a visual BMI indicator to help users better understand their health status.
+
+<img width="1916" height="997" alt="image" src="https://github.com/user-attachments/assets/7ccd7970-248d-492a-afe2-e8daf0e73c7d" />
+
+<img width="1885" height="877" alt="image" src="https://github.com/user-attachments/assets/2416f9f7-ea18-412e-ab1e-5d908a5ba8bc" />
+
+
 
 ## 🛠️ Technologies Used
 
@@ -126,8 +134,3 @@ B.Tech – Artificial Intelligence & Machine Learning
 
 Aditya Engineering College
 
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
