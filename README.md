@@ -118,7 +118,10 @@ python main.py
 - Meal Planner
 - BMI Calculator
 
----
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/78caf8e0-6ac3-4fc6-9bf5-551505f7ee1e" />
+
+<img width="1917" height="1000" alt="image" src="https://github.com/user-attachments/assets/33725d35-815c-4368-91c9-13974806cb6e" />
+
 
 ## ⚠️ Disclaimer
 
