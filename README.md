@@ -36,6 +36,9 @@ The Nutrition Analysis module allows users to search for different food items an
 
 ## 🤖 AI Health Assistant
 The AI Health Assistant is powered by Google's Gemini AI. Users can ask questions related to diabetes, nutrition, healthy lifestyle habits, exercise, and general wellness. The assistant provides informative responses to support users in understanding their health and promoting healthy daily habits.
+<img width="1917" height="848" alt="image" src="https://github.com/user-attachments/assets/f5e0c06a-84d3-4d99-9c88-018a90ce52bd" />
+
+<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/00abdca1-65da-4804-843c-cb3694d9aadf" />
 
 
 ## 🍽️ Meal Planner
